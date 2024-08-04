@@ -9,11 +9,13 @@ public class Students {
 
     }
     public void hello(){
-        System.out.println("hello world");
+        System.out.println("hello students");
     }
 
     public static void hellos()
     {
         System.out.println("hello static");
     }
+
+
 }
